@@ -1,20 +1,16 @@
 {
   "attributes": [
     {
-      "trait_type": "hat",
-      "value": "bandana"
-    },
-    {
-      "trait_type": "glasses",
-      "value": "sunglasses"
+      "trait_type": "crypto",
+      "value": "bitcoin"
     },
     {
       "trait_type": "personality",
-      "value": "chill"
+      "value": "angry"
     },
     {
       "trait_type": "shirt_color",
-      "value": "purple"
+      "value": "blue"
     },
     {
       "display_type": "number",
@@ -22,8 +18,8 @@
       "value": 1
     }
   ],
-  "description": "Just some guy that likes to code.",
+  "description": "Angry guy thats like bitcoin",
   "external_url": "https://example.com/?token_id=1",
-  "image": "ipfs://bafybeih3ykpa42eipgtzcrfkeo5nvazcdqhj3oh3ztju44tcoipzsdaauy/images/1.png",
-  "name": "Shane Stargaze"
+  "image": "ipfs://bafybeielp4yqzcujytqrb76u2tk32w37dwmghmw5ymeqnfyjk6b2b6cksy/images/1.png",
+  "name": "Felipe González"
 }
